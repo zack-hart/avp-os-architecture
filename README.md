@@ -1,4 +1,4 @@
-# AVP-OS (Advanced Volleyball Performance Operating System)
+# Advanced Volleyball Performance Operating System
 
 > *Note: The source code for this application is held in a private repository for security and API protection. This repository serves as the architectural overview and technical documentation.*
 
